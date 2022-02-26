@@ -20,9 +20,9 @@ from home import views
 
 urlpatterns = [
     #path('admin/', admin.site.urls),
-    path('content/',  views.home, name='home'),
-    path('contact/',  views.contact, name='contact'),
+    path('',  views.home, name='home'),
+    #path('contact/',  views.contact, name='contact'),
     #path('about/',  views.about, name='about'),
-    path('content/portfolio-details.html/', views.portfolio_details, name='portfolio_details' )
+    #path('content/portfolio-details.html/', views.portfolio_details, name='portfolio_details' )
 
 ]
