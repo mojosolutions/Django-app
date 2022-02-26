@@ -25,7 +25,6 @@ Cython==0.29.14
 dataframe-image==0.1.1
 dbus-python==1.2.16
 decorator==4.4.2
-defer==1.0.6
 defusedxml==0.7.1
 Deprecated==1.2.12
 dill==0.3.3
