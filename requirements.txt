@@ -104,7 +104,6 @@ pycups==1.9.73
 PyGetWindow==0.0.9
 PyGithub==1.55
 Pygments==2.9.0
-PyGObject==3.36.0
 PyJWT==2.1.0
 pymacaroons==0.13.0
 PyMsgBox==1.0.9
