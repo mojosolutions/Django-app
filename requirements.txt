@@ -101,7 +101,6 @@ pycairo==1.16.2
 pycparser==2.20
 pycrypto==2.6.1
 pycups==1.9.73
-pygame==1.9.6
 PyGetWindow==0.0.9
 PyGithub==1.55
 Pygments==2.9.0
