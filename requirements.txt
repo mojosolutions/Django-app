@@ -147,4 +147,3 @@ Werkzeug==2.0.1
 wrapt==1.12.1
 yarg==0.1.9
 yarl==1.6.3
-zope.interface==4.7.1
